@@ -5,6 +5,7 @@
 #restaurantid {
     color: black;
     font-weight: 100px;
+    background-image: url("Cheese.jpg");
     padding: 20px;
     text-align: center;
 }
